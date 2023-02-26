@@ -1,0 +1,112 @@
+,street,level,median_length,median_delay,median_speed_kmh,total_records,median_level,cluster_km
+0,Cikujang,3,897,175,15,8,3,2
+1,N11 Lingkar Selatan Sukabumi,2,1327,108,22,7,2,1
+2,RA Kosasih,2,1419,126,21,14,2,1
+3,Jalan Selabintana,2,1232,110,19,5,2,1
+4,RE Martadinata,3,645,136,12,9,3,0
+5,Pelabuhan 2,2,1296,115,20,9,2,1
+6,Jenderal Ahmad Yani,3,810,139,13,9,3,2
+7,Jalan Bhayangkara,2,830,108,15,7,2,2
+8,Jenderal Sudirman,2,706,87,17,8,2,2
+9,Pemuda,2,587,100,12,5,2,0
+10,KH Ahmad Sanusi,2,1182,98,21,11,2,1
+11,Pasir Pogor,2,913,125,16,9,2,2
+12,N11 Pembangunan,3,526,208,8,8,3,0
+13,Otto Iskandardinata,3,627,111,13,7,3,0
+14,Jalan Raya Sukabumi,3,506,126,12,4,3,0
+15,Surya Kencana,2,735,94,15,7,2,2
+16,Siliwangi,2,764,94,16,7,2,2
+17,Lamping,2,852,114,18,10,2,2
+18,Ambubawa Sasana,3,958,174,14,8,3,2
+19,Letda T Asmita,3,444,75,11,1,3,0
+20,Kapten Harun Kabir,2,774,89,16,7,2,2
+21,Kapitan,2,740,92,19,8,2,2
+22,Cicadas,2,973,119,19,7,2,2
+23,Perintis Kemerdekaan,4,241,222,5,8,4,3
+24,Pajajaran,2,1627,230,18,10,2,1
+25,RH Didi Sukardi,2,780,98,16,7,2,2
+26,Nyomplong,3,262,110,6,8,3,3
+27,Widyakrama,2,1076,141,19,9,2,1
+28,Baros,2,952,110,19,6,2,2
+29,Limus Nunggal,1,746,123,12,8,1,2
+30,Jalan Rumah Sakit,3,288,153,6,9,3,3
+31,Wangun Reja,3,634,102,16,6,3,0
+32,Gudang,3,246,129,6,3,3,3
+33,Bumi Purnawira Asri,4,209,128,5,10,4,3
+34,Kibitay,2,1162,137,22,7,2,1
+35,Zaenal Zakse,4,207,149,4,7,4,3
+36,Veteran 2,4,194,117,5,7,4,3
+37,Cibuntu,3,475,123,11,7,3,0
+38,Arif Rahman Hakim,3,648,104,16,5,3,0
+39,Sejahtera,2,567,117,10,4,2,0
+40,Lettu Bakri,4,184,124,4,5,4,3
+41,Veteran,3,434,99,11,8,3,0
+42,Kopeng,1,782,129,14,5,1,2
+43,Stasiun Timur,4,233,193,3,6,4,3
+44,Sarasa,2,1059,152,13,5,2,1
+45,Bantar Panjang,3,606,76,13,8,3,0
+46,Cipeulang Leutik,4,348,126,8,7,4,3
+47,Pramuka 2,2,787,142,16,7,2,2
+48,Tata Nugraha,2,1030,129,18,8,2,1
+49,Mayor Mahmud,2,759,116,17,4,2,2
+50,Baros Raya,2,774,221,12,5,2,2
+51,Merbabu,2,857,97,12,8,2,2
+52,KH Oim Abdurochim,2,706,96,18,8,2,2
+53,Sukabumi-Sukanegara,3,469,93,11,7,3,0
+54,Karamat,2,401,139,7,6,2,0
+55,Pejagalan,4,242,123,6,6,4,3
+56,Pengadilan,4,165,155,4,6,4,3
+57,Saniin,3,685,110,15,2,3,2
+58,Parigi,3,683,131,15,6,3,2
+59,Pasar Timur,4,323,168,7,8,4,3
+60,Palasari,3,859,155,15,8,3,2
+61,Jeruk Nyelap,2,828,117,18,7,2,2
+62,Gunung Karang,3,699,138,13,7,3,2
+63,Pelda Suryanta,2,538,116,10,9,2,0
+64,Kabandungan,2,409,68,9,8,2,0
+65,Kapten Asmud Lubis,1,309,83,6,6,1,3
+66,Samsi,3,635,138,13,9,3,0
+67,Ciandam,2,571,105,10,7,2,0
+68,Nangerang,2,1282,133,21,11,2,1
+69,Pramuka,2,471,128,8,8,2,0
+70,Pasundan,3,371,80,9,6,3,3
+71,Cemerlang,2,893,101,15,7,2,2
+72,Pesona Cibureum Permai,3,518,110,11,6,3,0
+73,Brawijaya,2,226,88,6,8,2,3
+74,Genteng,3,516,86,15,6,3,0
+75,Lio Balandongan,2,473,80,10,5,2,0
+76,Sriwidari,3,569,87,13,6,3,0
+77,Parahita,3,882,230,13,10,3,2
+78,Kokon Komariah,2,676,112,15,7,2,2
+79,Perum Tanjung Sari Permai,3,341,62,10,1,3,3
+80,Garuda,3,508,240,9,6,3,0
+81,R Syamsudin SH,4,222,109,5,8,4,3
+82,Dwikora,1,528,76,10,8,1,0
+83,Jalan Terminal Sukaraja,3,243,87,7,5,3,3
+84,Jalan Begeg,3,560,147,11,11,3,0
+85,Tegal Wangi,3,423,105,11,8,3,0
+86,Sindangpalay Asri,3,482,142,11,6,3,0
+87,Caringin Ngumbang,3,702,107,16,5,3,2
+88,Pabuaran,3,453,117,8,9,3,0
+89,Jalan Masjid,3,251,122,5,2,3,3
+90,Dewi Sartika,2,213,98,4,6,2,3
+91,Pesona Pangrango,4,188,110,5,8,4,3
+92,Suka Karya,2,1211,174,18,10,2,1
+93,Ciaul Pasir,2,326,87,8,6,2,3
+94,Sudajaya,2,408,70,10,8,2,0
+95,Jalan Cendana,2,270,114,5,5,2,3
+96,Proklamasi,2,796,84,14,11,2,2
+97,Parung Seah,3,427,107,6,1,3,0
+98,Benteng Kidul,1,439,65,9,1,1,0
+99,Taman Bahagia,2,452,108,8,2,2,0
+100,Kenari,2,252,73,6,4,2,3
+101,Lio Santa,4,238,114,6,9,4,3
+102,Sudajaya Hilir,4,276,123,5,8,4,3
+103,Kenari 2,4,279,128,7,9,4,3
+104,Puri Cibeureum,3,204,180,3,5,3,3
+105,Koleberes,1,593,82,10,4,1,0
+106,Jalan Subang Jaya,3,338,138,6,1,3,3
+107,Cikaret,1,544,186,8,12,1,0
+108,Perana,4,589,100,7,6,4,0
+109,Sindangsari,1,952,108,12,3,1,2
+110,Pemuda 2,3,489,85,15,1,3,0
